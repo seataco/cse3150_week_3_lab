@@ -1,6 +1,7 @@
 #ifndef LOGGER_H
 #define LOGGER_H
 
+#pragma once
 #include <string>
 
 void addReading(const std::string& label, double value,
